@@ -10,7 +10,7 @@ jobs:
       - run: env 
 
   windows-environment-variables:
-    runs-on: window-latest 
+    runs-on: windows-latest 
     steps:
       - run: env 
 
